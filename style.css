@@ -1479,10 +1479,6 @@ sup {
   height: 15vh;
 }
 
-.h-1\/6 {
-  height: 16.666667%;
-}
-
 .h-auto {
   height: auto;
 }
@@ -1691,10 +1687,6 @@ sup {
 
 .w-\[50\%\] {
   width: 50%;
-}
-
-.w-3\/4 {
-  width: 75%;
 }
 
 .w-\[50px\] {
@@ -2878,11 +2870,6 @@ sup {
   padding-bottom: 24px;
 }
 
-.px-10 {
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
-}
-
 .py-20 {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2896,6 +2883,11 @@ sup {
 .px-12 {
   padding-left: 3rem;
   padding-right: 3rem;
+}
+
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
 }
 
 .px-\[15px\] {
@@ -3924,11 +3916,6 @@ sup {
   color: rgb(234 179 8 / var(--tw-text-opacity));
 }
 
-.hover\:text-yellow-300:hover {
-  --tw-text-opacity: 1;
-  color: rgb(253 224 71 / var(--tw-text-opacity));
-}
-
 .hover\:text-sky-600:hover {
   --tw-text-opacity: 1;
   color: rgb(2 132 199 / var(--tw-text-opacity));
@@ -4259,20 +4246,8 @@ sup {
     height: 2.5rem;
   }
 
-  .sm\:h-max {
-    height: -webkit-max-content;
-    height: -moz-max-content;
-    height: max-content;
-  }
-
   .sm\:max-h-20 {
     max-height: 5rem;
-  }
-
-  .sm\:max-h-max {
-    max-height: -webkit-max-content;
-    max-height: -moz-max-content;
-    max-height: max-content;
   }
 
   .sm\:max-h-10 {
