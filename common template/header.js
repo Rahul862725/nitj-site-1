@@ -1158,22 +1158,22 @@ id="nav-menu" style="display: none">
                               <a href="/lifeAtNitj/CampusAmenities.html#Canteen & Shops" class="hover:text-[#FF6600]">
                                 Canteens & Shops
                               </a>
-                              <a href="/lifeAtNitj/CampusAmenities.html# Center Seminar Hall" class="hover:text-[#FF6600]">
+                              <a href="/lifeAtNitj/CampusAmenities.html#Center Seminar Hall" class="hover:text-[#FF6600]">
                                 Central Seminar Hall
                                 </a>
-                                <a href="/lifeAtNitj/CampusAmenities.html# Daily Commute" class="hover:text-[#FF6600]">
+                                <a href="/lifeAtNitj/CampusAmenities.html#Daily Commute" class="hover:text-[#FF6600]">
                                 Daily Commute
                                 </a>
-                              <a href="/lifeAtNitj/CampusAmenities.html# Open Air Theater"  class="hover:text-[#FF6600]">
+                              <a href="/lifeAtNitj/CampusAmenities.html#Open Air Theater"  class="hover:text-[#FF6600]">
                                 Open Air Theater
                                 </a>
-                              <a href="/lifeAtNitj/CampusAmenities.html# Post Office"  class="hover:text-[#FF6600]">
+                              <a href="/lifeAtNitj/CampusAmenities.html#Post Office"  class="hover:text-[#FF6600]">
                                 Post Office
                                 </a>
-                              <a href="/lifeAtNitj/CampusAmenities.html# Student Center" class="hover:text-[#FF6600]">
+                              <a href="/lifeAtNitj/CampusAmenities.html#Student Center" class="hover:text-[#FF6600]">
                                 Students Actvity Center
                                 </a>
-                              <a href="/lifeAtNitj/CampusAmenities.html# Wi-Fi Campus"  class="hover:text-[#FF6600]">
+                              <a href="/lifeAtNitj/CampusAmenities.html#Wi-Fi Campus"  class="hover:text-[#FF6600]">
                                 Wi-Fi Campus
                                 </a>
                             </ul>
